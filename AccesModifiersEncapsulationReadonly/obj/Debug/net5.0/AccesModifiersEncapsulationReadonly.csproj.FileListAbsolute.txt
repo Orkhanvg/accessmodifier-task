@@ -1,0 +1,5 @@
+/Users/orkhangahramanli/Desktop/AccesModifiersEncapsulationReadonly/obj/Debug/net5.0/AccesModifiersEncapsulationReadonly.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/AccesModifiersEncapsulationReadonly/obj/Debug/net5.0/AccesModifiersEncapsulationReadonly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/AccesModifiersEncapsulationReadonly/obj/Debug/net5.0/AccesModifiersEncapsulationReadonly.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/AccesModifiersEncapsulationReadonly/obj/Debug/net5.0/AccesModifiersEncapsulationReadonly.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/AccesModifiersEncapsulationReadonly/obj/Debug/net5.0/AccesModifiersEncapsulationReadonly.csproj.CoreCompileInputs.cache
